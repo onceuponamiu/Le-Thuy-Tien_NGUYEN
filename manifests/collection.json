@@ -1,0 +1,15 @@
+{
+  "id" : "https://onceuponamiu.github.io/Le-Thuy-Tien_NGUYEN/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in onceuponamiu/Le-Thuy-Tien_NGUYEN project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://onceuponamiu.github.io/Le-Thuy-Tien_NGUYEN/manifests/manifest.json",
+    "label" : {
+      "en" : [ "All images loaded in onceuponamiu/Le-Thuy-Tien_NGUYEN project" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
