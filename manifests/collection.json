@@ -15,5 +15,9 @@
     "@type" : null,
     "@id" : "https://onceuponamiu.github.io/Le-Thuy-Tien_NGUYEN/manifests/info1.json",
     "label" : null
+  }, {
+    "@type" : null,
+    "@id" : "https://onceuponamiu.github.io/Le-Thuy-Tien_NGUYEN/manifests/info.json",
+    "label" : null
   } ]
 }
