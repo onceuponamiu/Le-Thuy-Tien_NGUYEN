@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://onceuponamiu.github.io/Le-Thuy-Tien_NGUYEN/annotations/manifest.json" ],
+  "@id" : "https://onceuponamiu.github.io/Le-Thuy-Tien_NGUYEN/annotations/collection.json",
+  "label" : "All annotations loaded in onceuponamiu/Le-Thuy-Tien_NGUYEN project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
